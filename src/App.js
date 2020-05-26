@@ -11,10 +11,6 @@ import Error from './mains/Error/error.js';
 import About from './mains/About/about.js';
 import Main from './mains/Main/main.js';
 
-import Account from './mains/Account/account.js';
-import Register from './mains/Account/register.js';
-import Login from './mains/Account/login.js';
-import Events from './mains/Account/events.js';
 
 
 import {BrowserRouter as Router, Switch, Route } from "react-router-dom";
@@ -36,11 +32,6 @@ class App extends React.Component {
 		    <Route path="/" component={Main} exact  />
 		    <Route path="/main" component={Main} exact	/>
 		    <Route path="/about" component={About} />
-		    <Route path="/account" component={Account} />
-		    <Route path="/register" component={Register} />
-		    <Route path="/login" component={Login} />
-		    <Route path="/events" component={Events} />
-		    
 		    <Route component={Error} />
 		  </Switch>
 		</div>
