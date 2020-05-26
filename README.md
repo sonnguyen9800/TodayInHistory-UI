@@ -48,9 +48,18 @@ Click to the image below to watch demo on youtube!
 - 1.0.0 UI
 This version do not support account system. Advance version can be found in a different repository.
 
+## Wait a minute ... what about the "advanced version"? Where is it?
+- The final version of this app include a backend, a supported account authorization and authentication system based on JWT token. Also, we have api call to serverless backend on AWS Lambda. In addition, I use DynamoDB to store data.
+
+- Technology i used in this verion: DynamoDB, expressJS, serverless framework, aws-sdk, I also did deploy the app successfully on Amazon by Elastic Beanstalk.
+
+- You can see the below video to have a quick overview on my app.
+
+[![Watch the video](https://img.youtube.com/vi/MkBgJpfPfbs/maxresdefault.jpg)](https://youtu.be/MkBgJpfPfbs)
+
 ## Authors
 
-sonnguyen9800
+<b>sonnguyen9800</b>
 
 ## License
 
