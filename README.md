@@ -1,3 +1,5 @@
+![Screenshot](https://user-images.githubusercontent.com/45099020/82896953-06172880-9f81-11ea-975c-e31da13d2191.png)
+
 # Today in History (Simplified Version)
 
 A funny project built on React, which shows you the events that happend on the same day as when you visit the app, but in different year in the past. This is an application made for education and training on React. The original version include backend parts and account system.
@@ -23,7 +25,7 @@ A funny project built on React, which shows you the events that happend on the s
 - nodeJS
 - react
 - create-react-app
-- internet access (^^)
+- internet access (LOL)
 
 ### Sample Images and Demostration
 Click to the image below to watch demo on youtube!
@@ -46,15 +48,24 @@ Click to the image below to watch demo on youtube!
 - 1.0.0 UI
 This version do not support account system. Advance version can be found in a different repository.
 
-## Authors
+## Wait a minute ... what about the "advanced version"? Where is it?
+- The final version of this app include a backend, a supported account authorization and authentication system based on JWT token. Also, we have api call to serverless backend on AWS Lambda. In addition, I use DynamoDB to store data.
 
-sonnguyen9800
+- Technology i used in this verion: DynamoDB, expressJS, serverless framework, aws-sdk, I also did deploy the app successfully on Amazon by Elastic Beanstalk.
+
+- You can see the below video to have a quick overview on my app.
+
+[![Watch the video](https://img.youtube.com/vi/MkBgJpfPfbs/maxresdefault.jpg)](https://youtu.be/MkBgJpfPfbs)
+
+- While this version provides more functionalities, I find it troublesome to publish due to the fact that there are too many framework come along. So I will not publish it. You can pm me for further information.
+
+## Authors: <b>sonnguyen9800</b>
 
 ## License
 
-- Free for educational purpose! 
+- Free for educational purpose.
 
-- Do not use it for your assignment!
+- Do not use it for your assignment.
 
 ## Acknowledgments
 
