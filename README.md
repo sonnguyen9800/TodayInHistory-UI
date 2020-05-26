@@ -25,12 +25,12 @@ A funny project built on React, which shows you the events that happend on the s
 - nodeJS
 - react
 - create-react-app
-- internet access (^^)
+- internet access (LOL)
 
 ### Sample Images and Demostration
 Click to the image below to watch demo on youtube!
 
-[![Watch the video](https://img.youtube.com/vi/sGe5hasFdd4/default.jpg)](https://youtu.be/sGe5hasFdd4)
+[![Watch the video](https://img.youtube.com/vi/sGe5hasFdd4/maxresdefault.jpg)](https://youtu.be/sGe5hasFdd4)
 
 
 ### API 
@@ -55,7 +55,7 @@ This version do not support account system. Advance version can be found in a di
 
 - You can see the below video to have a quick overview on my app.
 
-[![Watch the video](https://img.youtube.com/vi/MkBgJpfPfbs/mqdefault.jpg)](https://youtu.be/MkBgJpfPfbs)
+[![Watch the video](https://img.youtube.com/vi/MkBgJpfPfbs/maxresdefault.jpg)](https://youtu.be/MkBgJpfPfbs)
 
 - While this version provides more functionalities, I find it troublesome to publish due to the fact that there are too many framework come along. So I will not publish it. You can pm me for further information.
 
@@ -63,9 +63,9 @@ This version do not support account system. Advance version can be found in a di
 
 ## License
 
-- Free for educational purpose! 
+- Free for educational purpose.
 
-- Do not use it for your assignment!
+- Do not use it for your assignment.
 
 ## Acknowledgments
 
