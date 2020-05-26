@@ -1,3 +1,5 @@
+![Screenshot](https://user-images.githubusercontent.com/45099020/82896953-06172880-9f81-11ea-975c-e31da13d2191.png)
+
 # Today in History (Simplified Version)
 
 A funny project built on React, which shows you the events that happend on the same day as when you visit the app, but in different year in the past. This is an application made for education and training on React. The original version include backend parts and account system.
