@@ -26,6 +26,7 @@ A funny project built on React, which shows you the events that happend on the s
 - internet access (^^)
 
 ### Sample Images and Demostration
+[![Watch the video](https://img.youtube.com/vi/sGe5hasFdd4/maxresdefault.jpg)](https://youtu.be/sGe5hasFdd4)
 
 
 ### API 
