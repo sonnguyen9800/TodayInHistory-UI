@@ -26,6 +26,8 @@ A funny project built on React, which shows you the events that happend on the s
 - internet access (^^)
 
 ### Sample Images and Demostration
+Click to the image below to watch demo on youtube!
+
 [![Watch the video](https://img.youtube.com/vi/sGe5hasFdd4/maxresdefault.jpg)](https://youtu.be/sGe5hasFdd4)
 
 
@@ -50,9 +52,9 @@ sonnguyen9800
 
 ## License
 
-Free for educational purpose! 
+- Free for educational purpose! 
 
-Do not use it for your assignment!
+- Do not use it for your assignment!
 
 ## Acknowledgments
 
