@@ -1,0 +1,18 @@
+@keyframes appear {
+    from {opacity: 0;}
+    to {opacity: 1;}
+}
+
+.rightpanel #content{
+    margin-top: 1rem;
+    display: flex;
+    justify-content: left;
+    text-align: left;
+    line-height: 2.5rem;
+    font-size: 1.5rem;
+
+    animation-name: appear;
+    animation-duration: 4s;
+}
+
+

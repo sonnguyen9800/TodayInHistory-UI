@@ -1,0 +1,25 @@
+{
+  "short_name": "Today In History",
+  "name": "An app that helps users to see what happends in today many years ago. It is cool, huh?",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "2000x2000",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "logo192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "logo512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

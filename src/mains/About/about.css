@@ -1,0 +1,10 @@
+.about-banner p{
+    margin-left: 4rem;
+    margin-right: 4rem;
+    margin-bottom: 2rem;
+    display: flex;
+}
+
+.about-banner h1{
+    margin-bottom: 1rem;
+}

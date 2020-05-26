@@ -1,0 +1,29 @@
+.footer{
+    width: 100%;
+    margin-bottom: 1rem;
+}
+
+#contact-text{
+    font-size: 1.3rem;
+}
+.contacts-link{
+    display: flex;
+    background-color: transparent;
+    justify-content: center;
+    alignItems: 'center'
+}
+
+.button-icon{
+    background-color: transparent;
+}
+
+.button-icon:hover {
+    background-color: grey;
+}
+.copyright{
+    margin-top: 1rem;
+}
+
+.blockquote{
+    margin-top: 2rem;
+}

@@ -1,0 +1,25 @@
+@keyframes appear {
+    from { opacity: 0;}
+    to { opacity: 1;}
+}
+.image {
+    
+    animation-name: appear;
+    animation-duration: 2s;
+
+
+    overflow: auto;
+    margin: auto;
+    /* top: 0; left: 0; bottom: 0; right: 0; */
+
+    display: inline-block;
+    vertical-align: middle;
+    
+}
+
+.center-div {
+
+
+    display: flex;
+    align-items: center;
+}
