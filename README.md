@@ -45,8 +45,8 @@ Click to the image below to watch demo on youtube!
 - You can run npm build to make a build folder. Put it inside backend or a main app!
 
 ## Versioning
-- 1.0.0 UI
-This version do not support account system. Advance version can be found in a different repository.
+- Alpha 1.0 UI
+- This version do not support account system, advance version does.
 
 ## Wait a minute ... what about the "advanced version"? Where is it?
 - The final version of this app include a backend, a supported account authorization and authentication system based on JWT token. Also, we have api call to serverless backend on AWS Lambda. In addition, I use DynamoDB to store data.
