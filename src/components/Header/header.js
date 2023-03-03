@@ -71,6 +71,22 @@ export default class Header extends React.Component {
 		  </strong>
 		</Button>
 	      </Link>
+
+		  {/* <Link to="/about"> */}
+		  {' '}
+		      
+			{' '}
+			  
+		  <Link 
+		  to={{ pathname: "https://sonnguyen9800.com" }}
+		   target="_blank">
+
+			<Button variant="outline-light" size='lg'>
+			<strong>
+				My Blog
+			</strong>
+			</Button>
+	      </Link>
 	      {' '}		      
 	    </Container>
 	
