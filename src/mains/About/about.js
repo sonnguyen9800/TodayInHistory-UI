@@ -21,7 +21,10 @@ export default class About extends React.Component {
 		  <h1>This is an app for education purpose!</h1>
 		  <p>
 		    This app show you an event which occured in the past which has the same date as today. The events shown are randomly picked
-		    from Wikipedia Resources. You can also sign up an account, log in and save any event to your account to see it at anytime you want!
+		    from Wikipedia Resources. 
+		  </p>
+		  <p>
+		    The app was developed based on byabbe.se API and WikiAPI. Also, credits to react-bootstrap & create-react-app package
 		  </p>
 		  <Button href='/' variant="outline-light" size='lg' >Back to main page</Button>
 
